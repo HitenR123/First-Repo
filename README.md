@@ -1,3 +1,3 @@
 # First-Repo
-This is my first Git Repository
-Aythor - Hiten Ranjan
+This is my first Git Repository.
+Author - Hiten Ranjan
